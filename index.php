@@ -7,7 +7,7 @@ BBM<?php date_default_timezone_set('Asia/Jakarta'); if(isset($_POST['pesan'])){ 
       </div>
       <div class="ctn">
         <button class="btn next">[ Lanjut bub]</button>
-        <button class="btn send">[ Kirim Pesan(gausa ditunggu loading e) ]</button>
+        <button class="btn send">[ Kirim Pesan(bales ng wa ae) ]</button>
       </div>
     </div>
 <script>
@@ -64,7 +64,7 @@ konten = [
 ];
 
 musik = "zzz.mp3";
-nomorWhatsapp = "";
+nomorWhatsapp = "085790429507";
 
 /*=========================*/
 </script><script> DekaTutorial(konten, musik, nomorWhatsapp); </script> </body> </html>
